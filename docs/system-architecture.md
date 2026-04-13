@@ -88,5 +88,5 @@ graph TB
 | Queue | Database driver | Async job processing |
 | Payment | Stripe via Cashier | Subscriptions & invoicing |
 | Push Notifications | Firebase Cloud Messaging | Mobile push delivery |
-| Sports Data | SportCC API | Fixture & team data sync |
+| Sports Data | External Sports Feed | Fixture & team data sync |
 | Email | Configured mail driver | Transactional emails |
